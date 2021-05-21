@@ -1,4 +1,4 @@
-# Swar's Chia Plot Manager 
+Swar's Chia Plot Manager 翻译（已升级 0.1.0）
 
 #### A plot manager for Chia plotting: https://www.chia.net/
 [English](README.md) / [Русский](README.RU.md)
